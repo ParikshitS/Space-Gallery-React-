@@ -9,7 +9,7 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='https://www.google.com/' exact />
+          <Route path='/' exact />
         </Switch>
       </Router>
       
